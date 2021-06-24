@@ -1,5 +1,7 @@
 # NLW Valoriza
 
+Construido Durante a semana NLWtogether
+
 ## Regras
 
 - Cadastro de usuário
